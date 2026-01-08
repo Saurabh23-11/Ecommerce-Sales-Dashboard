@@ -97,4 +97,4 @@ Strengthened skills in Business Intelligence, Data Analytics, and Dashboard Desi
 
 7️⃣ Screenshots
 
-link: 
+link: https://github.com/Saurabh23-11/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.png
